@@ -38,13 +38,11 @@ APK output: `app/build/outputs/apk/debug/app-debug.apk`
 
 ## Submission Checklist
 
-For each project, create a separate GitHub repository:
-
-1. **Repository naming:** `cognevance_projectName`
+1. **Repository:** [https://github.com/MuhammadJamshaid123/Cognevance](https://github.com/MuhammadJamshaid123/Cognevance)
 2. **Include:** Source code, README, documentation, screenshots folder
 3. **Build APK** using Gradle and add to `apk/` folder or GitHub Releases
 4. **Firebase projects** (2 & 3): Follow `docs/FIREBASE_SETUP.md` in each project
-5. **Submit links** to: support@cognevance.online
+5. **Submit link** to: support@cognevance.online
 6. **Include** your experience, review, and suggestions
 
 ## Project Summaries
