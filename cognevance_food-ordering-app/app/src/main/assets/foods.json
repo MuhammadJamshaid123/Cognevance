@@ -1,0 +1,12 @@
+[
+  {"id": 1, "name": "Margherita Pizza", "description": "Classic tomato, mozzarella and basil", "price": 12.99, "category": "Pizza", "imageUrl": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=400", "rating": 4.5},
+  {"id": 2, "name": "Pepperoni Pizza", "description": "Spicy pepperoni with extra cheese", "price": 14.99, "category": "Pizza", "imageUrl": "https://images.unsplash.com/photo-1628840042765-356cda07504e?w=400", "rating": 4.7},
+  {"id": 3, "name": "Classic Burger", "description": "Beef patty with lettuce, tomato and sauce", "price": 9.99, "category": "Burger", "imageUrl": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=400", "rating": 4.3},
+  {"id": 4, "name": "Cheese Burger", "description": "Double cheese with caramelized onions", "price": 11.49, "category": "Burger", "imageUrl": "https://images.unsplash.com/photo-1550547343-aa8172c2e638?w=400", "rating": 4.6},
+  {"id": 5, "name": "Caesar Salad", "description": "Fresh romaine, croutons and parmesan", "price": 8.99, "category": "Salad", "imageUrl": "https://images.unsplash.com/photo-1546793665-c74683f339c1?w=400", "rating": 4.2},
+  {"id": 6, "name": "Grilled Chicken", "description": "Herb-marinated grilled chicken breast", "price": 13.99, "category": "Main Course", "imageUrl": "https://images.unsplash.com/photo-1532550907400-a6286289a663?w=400", "rating": 4.8},
+  {"id": 7, "name": "Pasta Carbonara", "description": "Creamy pasta with bacon and egg", "price": 12.49, "category": "Pasta", "imageUrl": "https://images.unsplash.com/photo-1612874741220-2a0c167081a8?w=400", "rating": 4.5},
+  {"id": 8, "name": "Chocolate Cake", "description": "Rich dark chocolate layer cake", "price": 6.99, "category": "Dessert", "imageUrl": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=400", "rating": 4.9},
+  {"id": 9, "name": "Iced Latte", "description": "Cold espresso with milk and ice", "price": 4.99, "category": "Beverage", "imageUrl": "https://images.unsplash.com/photo-1517701603779-8a327f1654d2?w=400", "rating": 4.4},
+  {"id": 10, "name": "Fresh Orange Juice", "description": "Freshly squeezed orange juice", "price": 3.99, "category": "Beverage", "imageUrl": "https://images.unsplash.com/photo-1621506289937-a8e4df240eb0?w=400", "rating": 4.1}
+]

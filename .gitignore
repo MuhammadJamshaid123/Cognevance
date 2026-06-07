@@ -1,0 +1,18 @@
+# Android build
+.gradle/
+build/
+local.properties
+*.iml
+.idea/
+
+# Secrets
+google-services.json
+release.keystore
+
+# OS
+.DS_Store
+Thumbs.db
+
+# APK outputs
+*.apk
+*.aab
